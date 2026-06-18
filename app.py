@@ -5,13 +5,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
-import streamlit as st
-import joblib
-@st.cache_resource
-def load_model():
-    return joblib.load("model.pkl")
 
-model = load_model()
 
 # ── Path setup ────────────────────────────────────────────────────────────────
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
