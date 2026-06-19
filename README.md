@@ -2,6 +2,8 @@
 
 🔗 Live App: khairbakshnoor-pixel-customer-churn-dashboard--app-fhelsw.streamlit.app
 
+https://khairbakshnoor-pixel-customer-churn-dashboard--app-fhelsw.streamlit.app/
+
 An end-to-end Machine Learning web application that predicts whether a telecom customer will Churn or Retain, built with Streamlit. The app trains and compares 6 ML algorithms live, and provides an interactive prediction system for individual customers.
 
 
